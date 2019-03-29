@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\Evento\Evento\bin\Debug\Evento.exe.config
+C:\Users\chris\source\repos\Evento\Evento\bin\Debug\Evento.exe
+C:\Users\chris\source\repos\Evento\Evento\bin\Debug\Evento.pdb
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.Form1.resources
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.Properties.Resources.resources
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.exe
+C:\Users\chris\source\repos\Evento\Evento\obj\Debug\Evento.pdb
